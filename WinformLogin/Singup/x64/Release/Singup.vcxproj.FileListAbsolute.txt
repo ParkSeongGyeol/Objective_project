@@ -1,0 +1,3 @@
+D:\visual studio\Login\Singup\x64\Release\Singup.vcxproj.AssemblyReference.cache
+D:\visual studio\Login\Singup\x64\Release\Singup.Form2.resources
+D:\visual studio\Login\Singup\x64\Release\Singup.vcxproj.GenerateResource.cache
