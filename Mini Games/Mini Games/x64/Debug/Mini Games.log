@@ -1,0 +1,38 @@
+﻿  GameSelector.cpp
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(126,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(126,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,104): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,104): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,104): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,104): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,104): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,83): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,83): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,83): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,83): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(163,83): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(201,68): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\Snake_main.h(201,45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,34): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,34): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,34): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,34): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,34): warning C4244:         ]
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,31): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,31): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,31): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,31): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\C++\Mini Games\Mini Games\GameSelector.cpp(33,31): warning C4244:         ]
+  Mini Games.vcxproj -> C:\Users\양주성\Desktop\코딩\C++\Mini Games\x64\Debug\Mini Games.exe
