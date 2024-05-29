@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+D:\visual studio\Login\Singup\Form2.h(2,10): error C1083: 포함 파일을 열 수 없습니다. 'mysql_connection.h': No such file or directory
+  (소스 파일 '/CppCLR_WinFormsProject.cpp'을(를) 컴파일하는 중)
+  

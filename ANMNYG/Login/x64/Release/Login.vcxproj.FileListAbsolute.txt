@@ -1,0 +1,3 @@
+D:\visual studio\Login\Login\x64\Release\Login.vcxproj.AssemblyReference.cache
+D:\visual studio\Login\Login\x64\Release\Login.Form1.resources
+D:\visual studio\Login\Login\x64\Release\Login.vcxproj.GenerateResource.cache
