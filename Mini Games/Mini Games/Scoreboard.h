@@ -4,6 +4,7 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 using namespace sf;
 using namespace std;
@@ -22,6 +23,7 @@ public:
     void loadScores();
     void saveScores();
     void sortScores();
+    void clearScoresFile();
 
 private:
     vector<Score> scores;
@@ -74,6 +76,11 @@ void Scoreboard::render(RenderWindow& window) {
         y += 50;
     }
 
+    Text deleteText("Delete", font, 30);
+    deleteText.setFillColor(Color::Black);
+    deleteText.setPosition(20, 100); 
+    window.draw(deleteText);
+
     window.setView(window.getDefaultView());
     window.draw(backButton);
 
@@ -84,11 +91,13 @@ void Scoreboard::render(RenderWindow& window) {
         }
         else if (event.type == Event::MouseButtonPressed) {
             if (event.mouseButton.button == Mouse::Left) {
-                if (backButton.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
+                if (deleteText.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
+                    clearScoresFile();
+                }
+                else if (backButton.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
                     window.close();
                     GameSelector gameSelector;
                     gameSelector.run();
-                    return;
                 }
             }
         }
@@ -110,7 +119,7 @@ void Scoreboard::render(RenderWindow& window) {
 void Scoreboard::addScore(const string& gameName, int score) {
     for (auto& s : scores) {
         if (s.name == gameName && s.score == score) {
-            return; 
+            return;
         }
     }
 
@@ -125,6 +134,8 @@ void Scoreboard::loadScores() {
         cerr << "Error opening scores file" << endl;
         return;
     }
+
+    scores.clear(); // 기존 데이터 초기화
 
     string gameName;
     int score;
@@ -152,4 +163,15 @@ void Scoreboard::saveScores() {
 
 void Scoreboard::sortScores() {
     sort(scores.begin(), scores.end(), [](const Score& a, const Score& b) { return a.score > b.score; });
+}
+
+void Scoreboard::clearScoresFile() {
+    ofstream file(SCORES_FILE, ofstream::out | ofstream::trunc);
+    if (!file.is_open()) {
+        cerr << "Error opening scores file" << endl;
+        return;
+    }
+
+    file.close();
+    scores.clear();
 }
