@@ -3,7 +3,6 @@
 #include <iostream>
 #include <winsock2.h>
 #include <thread>
-
 using namespace std;
 
 #pragma comment(lib,"ws2_32.lib") // ws2_32.lib 라이브러리를 링크
