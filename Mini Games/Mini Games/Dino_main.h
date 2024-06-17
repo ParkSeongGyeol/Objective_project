@@ -130,7 +130,7 @@ int DinoGame(RenderWindow& mainWindow) {
                     if (gameover && restart.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
                         restartGame(dino, cactus);
                     }
-                    if (back.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
+                    if (gameover && back.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
                         window.close();
                         mainWindow.create(VideoMode(800, 600), "Game Selector");
                         return 0;
