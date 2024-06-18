@@ -1,0 +1,119 @@
+﻿  main.cpp
+  UserManager.cpp
+  GameSelector.cpp
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,97): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,97): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,97): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,97): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,97): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,76): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,76): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,76): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,76): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(94,76): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,102): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,102): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,102): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,102): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,102): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,81): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,81): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,81): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,81): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Scoreboard.h(97,81): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(106,46): warning C4244: '인수': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(106,46): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(106,46): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(106,46): warning C4244:             T=unsigned int
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(106,46): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,110): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,110): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,110): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,110): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,110): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,89): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,89): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,89): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,89): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(131,89): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,107): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,107): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,107): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,107): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,107): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,86): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,86): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,86): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,86): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(134,86): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(172,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(182,37): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(201,23): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(223,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Dino_main.h(224,22): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(128,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(128,32): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,104): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,104): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,104): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,104): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,104): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,83): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,83): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,83): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,83): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(167,83): warning C4244:         ]
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(205,68): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\Snake_main.h(205,45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'GameSelector.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,34): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,34): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,34): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,34): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,34): warning C4244:         ]
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,31): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,31): warning C4244:         with
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,31): warning C4244:         [
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,31): warning C4244:             T=float
+C:\Users\양주성\Desktop\코딩\Project3\Project3\GameSelector.cpp(33,31): warning C4244:         ]
+  코드를 생성하고 있습니다...
+  Project3.vcxproj -> C:\Users\양주성\Desktop\코딩\Project3\x64\Debug\Project3.exe
