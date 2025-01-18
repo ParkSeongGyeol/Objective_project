@@ -1,0 +1,6 @@
+﻿  main.cpp
+  UserManager.cpp
+E:\객체지향 5조\Project3\Project3\GameSelector.h(4,10): error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  GameSelector.cpp
+E:\객체지향 5조\Project3\Project3\GameSelector.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'SFML/Graphics.hpp': No such file or directory
+  코드를 생성하고 있습니다...
